@@ -3,7 +3,7 @@ import Steps from "./Steps";
 const DeliveryInfo = () => {
   return (
     <div>
-      <div className="bg-white p-8 border rounded-2xl gap-10">
+      <div className="bg-white p-8 border w-[400px] rounded-2xl gap-10">
         <div className="flex items-center">
           <p className="text-xl font-bold">1. Сагс</p>
           <p>(4)</p>
